@@ -1,0 +1,2 @@
+`index.html` contains a sample form protected by invisible reCAPTCHA.
+Each downloaded file is in `<filename>/default.js`; successive iterations for the purpose of studying are numbered in incremental order (`<filename>/1.js`, `2.js`, etc.)
